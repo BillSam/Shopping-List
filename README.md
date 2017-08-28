@@ -21,4 +21,6 @@ Installation
 You will be reqired to copy the folder containing the project into the /var/www/html folder.Then using your 
 browser you can access the website using http://127.0.0.1/
 
-You are welcome to review my project.
+
+
+
