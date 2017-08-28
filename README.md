@@ -1,4 +1,3 @@
-/*Project name*/
 SHOPPING LIST WEBSITE
 
 This is a website that helps users to create a shopping list from their phones or computers
@@ -19,4 +18,5 @@ computer machine and a browser.
 
 Installation
 
-You will be reqired to copy the folder containing the project into the /var/www/html folder.
+You will be reqired to copy the folder containing the project into the /var/www/html folder.Then using your 
+browser you can access the website using http://127.0.0.1/
